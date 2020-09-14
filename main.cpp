@@ -6,7 +6,6 @@ int main()
 {
     cout << "Hello world!" << endl;
 
-
     string food = "Pizza";  // A string variable
     string* ptr = &food;  // A pointer variable that stores the address of food
 
