@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 int main()
@@ -17,7 +16,6 @@ int main()
 
     // Output the memory address of food with the pointer
     cout << ptr << "\n";
-
 
     return 0;
 }
